@@ -11,14 +11,14 @@
 <tr>
     <td>2. </td>
     <td>What are the sematic tags in HTML? <br>
-      <header>: Represents a header section, often containing the title or introductory content of a page or section. 
-<article>: Defines an independent or self-contained composition, like a blog post or news article. 
-<footer>: Represents a footer for the sectioning content, often containing copyright information, author details, or related links. 
-<nav>: Represents a section of navigation links. 
-<aside>: Represents content that is tangentially related to the main content. 
-<section>: Represents a generic structural section. 
-<div>: A generic container, often used for styling and layout without semantic meaning. 
-<span>: Another generic container, used for styling or scripting. 
+      &lt;header&gt;: Represents a header section, often containing the title or introductory content of a page or section. 
+&lt;article&gt;: Defines an independent or self-contained composition, like a blog post or news article. 
+&lt;footer&gt;: Represents a footer for the sectioning content, often containing copyright information, author details, or related links. 
+&lt;nav&gt;: Represents a section of navigation links. 
+&lt;aside&gt;: Represents content that is tangentially related to the main content. 
+&lt;section&gt;: Represents a generic structural section. 
+&lt;div&gt;: A generic container, often used for styling and layout without semantic meaning. 
+&lt;span&gt;: Another generic container, used for styling or scripting. 
     </td> 
 </tr>
 
