@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>1.</td>
-    <td>what is skiplinks in accessibility? 
+    <td>what is skiplinks in accessibility? <br>
     A skip link at the start of a page enables people navigating by keyboard to move quickly to the start of the main content on the page, bypassing the top navigation options and menu.
 
   </td>
