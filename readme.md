@@ -31,15 +31,16 @@
 
 <tr>
     <td>4. </td>
-  <td>what are the ARIA attribute?</td> <br>
+  <td>what are the ARIA attribute? <br>
 ARIA attributes are crucial for making web content accessible to users with disabilities, especially those who rely on assistive technologies. 
-  By using ARIA attributes, developers can ensure their websites and applications are usable by a broader audience, regardless of their abilities. 
+  By using ARIA attributes, developers can ensure their websites and applications are usable by a broader audience, regardless of their abilities. </td>
 </tr>
+<tr>
 <td>5. </td>
-  <td>When to Use ARIA Attributes?</td> <br>
+  <td>When to Use ARIA Attributes? <br>
 When the meaning of an element needs to be explicitly communicated to assistive technologies, especially when using non-semantic HTML elements.
 When dealing with dynamic content or interactive elements that require assistive technologies to be informed of their current state.
-When there is a need to define relationships between elements that aren't easily understood from the HTML structure alone. 
+When there is a need to define relationships between elements that aren't easily understood from the HTML structure alone.</td> 
 </tr>
 </table>
 
