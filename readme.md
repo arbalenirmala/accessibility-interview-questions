@@ -10,7 +10,7 @@
 
 <tr>
     <td>2. </td>
-    <td>What are the sematic tags in HTML? <br> <br>
+    <td><b>What are the sematic tags in HTML?</b> <br> <br>
       &lt;header&gt;: Represents a header section, often containing the title or introductory content of a page or section. <br>
 &lt;article&gt;: Defines an independent or self-contained composition, like a blog post or news article. <br>
 &lt;footer&gt;: Represents a footer for the sectioning content, often containing copyright information, author details, or related links. <br>
@@ -24,20 +24,20 @@
 
 <tr>
     <td>3. </td>
-  <td>What is difference between div and button? <br> <br>
+  <td><b>What is difference between div and button</b>? <br> <br>
     Divs are not focusable, for instance, your tab key will not focus a div as it will for any other button on your device. Screen readers and other assistive devices don't recognize divs as clickable elements. Divs do not translate certain key inputs, like space bars or return keys, to clicks when focused.
   </td>
 </tr>
 
 <tr>
     <td>4. </td>
-  <td>what are the ARIA attribute? <br> <br>
+  <td><b>what are the ARIA attribute?</b> <br> <br>
 ARIA attributes are crucial for making web content accessible to users with disabilities, especially those who rely on assistive technologies. 
   By using ARIA attributes, developers can ensure their websites and applications are usable by a broader audience, regardless of their abilities. </td>
 </tr>
 <tr>
 <td>5. </td>
-  <td>When to Use ARIA Attributes? <br> <br>
+  <td><b>When to Use ARIA Attributes?</b> <br> <br>
 When the meaning of an element needs to be explicitly communicated to assistive technologies, especially when using non-semantic HTML elements.
 When dealing with dynamic content or interactive elements that require assistive technologies to be informed of their current state.
 When there is a need to define relationships between elements that aren't easily understood from the HTML structure alone.</td> 
