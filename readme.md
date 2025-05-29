@@ -42,6 +42,12 @@ When the meaning of an element needs to be explicitly communicated to assistive 
 When dealing with dynamic content or interactive elements that require assistive technologies to be informed of their current state.
 When there is a need to define relationships between elements that aren't easily understood from the HTML structure alone.</td> 
 </tr>
+<tr>
+    <td>6.</td>
+    <td><b>Form Accessibility?</b> <br> <br>
+
+  </td>
+</tr>
 </table>
 
 
